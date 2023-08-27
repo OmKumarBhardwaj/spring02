@@ -9,10 +9,6 @@ k
 ;spring/src/main/java/com/legend/spring/game/GameRunner.java,0\0\0043918a402de9af6ecdeadee1f860a71f881dee
 Å
 Qspring/src/main/java/com/legend/spring/learnspringframework/App01GamingBasic.java,e\a\eae69538adcec5d9c91205bd48bde689d8e2dd8c
-|
-Lspring/src/main/java/com/legend/spring/helloworld/App02HelloWorldSpring.java,d\b\db86df290b30ce5d5e93a64b01ea738874127250
-~
-Nspring/src/main/java/com/legend/spring/helloworld/HelloWorldConfiguration.java,b\f\bf004b95df1339086fb1759ca79880f9a484dca3
 g
 7spring/src/main/java/com/legend/spring/game/PacMan.java,5\a\5a0932b33e870ddf63b8c5d32bf3f409bf9f5082
 Ñ
