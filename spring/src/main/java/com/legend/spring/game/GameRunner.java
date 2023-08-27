@@ -1,12 +1,13 @@
 package com.legend.spring.game;
 
+import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Component;
 
 @Component
 public class GameRunner {
     private final GamingConsole game;
 
-    public GameRunner(GamingConsole game) {
+    public GameRunner(@Qualifier("SuperContra") GamingConsole game) {
       this.game = game;
     }
 
