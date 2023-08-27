@@ -1,7 +1,5 @@
-package com.legend.spring.learnspringframework;
+package com.legend.spring.game;
 
-import com.legend.spring.game.GameRunner;
-import com.legend.spring.game.GamingConsole;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
