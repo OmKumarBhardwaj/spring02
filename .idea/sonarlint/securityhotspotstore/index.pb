@@ -7,3 +7,17 @@ n
 >spring/src/main/java/com/legend/spring/game/GamingConsole.java,7\5\751c905e19d8efd114f7331968eff1853033f2d6
 g
 7spring/src/main/java/com/legend/spring/game/PacMan.java,5\a\5a0932b33e870ddf63b8c5d32bf3f409bf9f5082
+ï
+espring/src/main/java/com/legend/spring/lazy_initialization/LazyInitializationLauncherApplication.java,1\2\1211fe22061156a10eb9791470b75fd2bbef0e5f
+ë
+aspring/src/main/java/com/legend/spring/spring_bean_scope/SpringBeanScopesLauncherApplication.java,4\8\487a9bdf1096fdb9ce1e725e7347cd3dd493490e
+ù
+mspring/src/main/java/com/legend/spring/postconstruct_and_predestroy/PrePostAnnotationLauncherApplication.java,6\6\662e39ed05c74fd3d078270933531067584e504b
+>
+spring/pom.xml,c\5\c506f7bb389b9725c851fc30d6e3b6c094337353
+ê
+`spring/src/main/java/com/legend/spring/jakarta_inject_api_cdi/CDIContextLauncherApplication.java,a\e\aef59c7a06bdd1df1af5027ad1fa2a34b66eef55
+k
+;spring/src/main/java/com/legend/spring/game/GameRunner.java,0\0\0043918a402de9af6ecdeadee1f860a71f881dee
+ò
+hspring/src/main/java/com/legend/spring/xml_configuration/XmlConfigurationContextLauncherApplication.java,0\0\006ee1440c95a80a9219f4ae5ba4981231869f57
