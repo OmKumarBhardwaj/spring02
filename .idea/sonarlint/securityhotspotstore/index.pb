@@ -5,7 +5,5 @@ j
 :spring/src/main/java/com/legend/spring/game/MarioGame.java,c\f\cf88f6cbbdb0b3583eeb96bb65080ad62bcab737
 n
 >spring/src/main/java/com/legend/spring/game/GamingConsole.java,7\5\751c905e19d8efd114f7331968eff1853033f2d6
-k
-;spring/src/main/java/com/legend/spring/game/GameRunner.java,0\0\0043918a402de9af6ecdeadee1f860a71f881dee
 g
 7spring/src/main/java/com/legend/spring/game/PacMan.java,5\a\5a0932b33e870ddf63b8c5d32bf3f409bf9f5082

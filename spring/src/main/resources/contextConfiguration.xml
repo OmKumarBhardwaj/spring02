@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context" xsi:schemaLocation="
+                http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+                http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd">
+
+    <bean id="name" class="java.lang.String">
+        <constructor-arg value="Legend"/>
+    </bean>
+
+    <bean id="age" class="java.lang.Integer">
+        <constructor-arg value="20"/>
+    </bean>
+
+    <bean id="game1" class="com.legend.spring.game.PacMan">
+    </bean>
+
+    <bean id="gameRunner1" class="com.legend.spring.game.GameRunner">
+        <constructor-arg ref="game1"/>
+    </bean>
+
+    <!--    Define a component scan in xml -->
+    <!--    <context:component-scan base-package="com.legend.spring.game" />-->
+
+</beans>
+
+
+        <!--   // Second Way-->
+
+        <!--<?xml version="1.0" encoding="UTF-8"?>-->
+        <!--<beans xmlns="http://www.springframework.org/schema/beans"-->
+        <!--       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"-->
+        <!--       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">-->
+
+        <!--</beans>-->
